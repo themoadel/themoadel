@@ -6,7 +6,7 @@ A self taught web developer trying to make his own influence.
 
 - 🌍  I'm based in Cairo, Egypt
 - 🚀  I'm currently working on [Umbra](http://umbrasys.com)
-- 🧠  I'm currently learning React Native, Angular & Nest.
+- 🧠  I'm currently learning Next js & Nest.
 - ✉️  You can contact me at [96mohamedadel@gmail.com](mailto:96mohamedadel@gmail.com)
 
 ### Skills
